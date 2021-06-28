@@ -16,6 +16,9 @@
   / ____ \ |_| || (_| | (__|   <                                                  
  /_/    \_\__|\__\__,_|\___|_|\_\                                                 
  ```
+## requirement
+- ubuntu 20.4
+- WIFI adapter with monitor mode
 ## Installation
 Use pip to install relevant packages.
 
@@ -23,7 +26,6 @@ Use pip to install relevant packages.
 sudo pip scapy
 ```
 ## Usage
-- connect supported interface
 - run with python3 with sudo
 ```bash
 sudo python3 DeathAttack.py
