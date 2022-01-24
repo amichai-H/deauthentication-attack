@@ -23,7 +23,8 @@
 Use pip to install relevant packages.
 
 ```bash
-sudo pip scapy
+sudo pip install scapy
+sudo apt install net-tools
 ```
 ## Usage
 - run with python3 with sudo
